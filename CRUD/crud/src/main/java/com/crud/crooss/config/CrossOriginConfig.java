@@ -12,6 +12,6 @@ public class CrossOriginConfig implements WebMvcConfigurer {
         registry.addMapping("/**")
                 .allowedHeaders("*")
                 .allowedMethods("*")
-                .allowedOrigins("http://localhost:4200");
+                .allowedOrigins("*");
     }
 }

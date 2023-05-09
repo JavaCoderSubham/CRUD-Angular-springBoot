@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a27167cd-a33f-4800-9902-2e17fecaf9e7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../angular-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-app/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-app/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-app/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-app/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../angular-app/src/service/crud-operation.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/src/service/crud-operation.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/crud/crooss/config/CrossOriginConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crud/crooss/config/CrossOriginConfig.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

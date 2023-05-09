@@ -28,8 +28,8 @@ export class CrudOperationService {
     return this.http.delete(this.url + `/deleteById/${id}`)
   }
 
-  update(id:string, emp:Employee) {
-    return this.http.put(this.url + `/update/${id}`,emp);
+  update(id:string, emp:Employee):Observable<Employee> {
+    return this.http.put<Employee>(this.url + `/update/${id}`,emp);
   }
 
 }
