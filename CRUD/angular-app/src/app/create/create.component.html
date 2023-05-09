@@ -1,0 +1,19 @@
+<div class="container">
+    <form class="form-create">
+        <mat-form-field class="form-fields">
+            <mat-label>Name</mat-label>
+            <input matInput placeholder="Enter Name" name="name" [(ngModel)]="emp.name">
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>Mobile Number</mat-label>
+            <input matInput placeholder="Enter Mobile Number" name="name" [(ngModel)]="emp.mobileNumber">
+        </mat-form-field>
+        <mat-form-field>
+            <mat-label>Address</mat-label>
+            <input matInput placeholder="Enter Address" name="name" [(ngModel)]="emp.address">
+        </mat-form-field>
+        <div class="btn">
+            <button mat-raised-button color="primary" (click)="create()">Submit</button>
+        </div>
+    </form>
+</div>

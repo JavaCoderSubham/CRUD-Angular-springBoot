@@ -1,0 +1,14 @@
+
+<form>
+    <mat-form-field>
+        <mat-label>Employee Id</mat-label>
+        <input matInput placeholder="Enter Id" name="id" [(ngModel)]="id">
+    </mat-form-field>
+    <button mat-raised-button color="warn" (click)="getById()">find</button>
+</form>
+<mat-divider></mat-divider>
+<h1><span>Id :</span> {{employee.id}}</h1>
+<h1><span>Name :</span> {{employee.name}}</h1>
+<h1><span>Mobile Number :</span> {{employee.mobileNumber}}</h1>
+<h1><span>Address :</span> {{employee.address}}</h1>
+

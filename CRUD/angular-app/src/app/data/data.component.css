@@ -1,0 +1,20 @@
+table {
+    width: 100%;
+  }
+  
+  tr td {
+      text-align: center;
+  }
+  
+  .iteams:nth-child(2n) {
+      background-color: antiquewhite;
+      color: black;
+  }
+  
+  tr th {
+      border-bottom: 2px solid black;
+  }
+  
+  
+  
+  

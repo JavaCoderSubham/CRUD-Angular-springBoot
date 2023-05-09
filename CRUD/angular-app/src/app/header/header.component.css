@@ -1,0 +1,42 @@
+li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  header {
+    height: 70px;
+    width: 100%;
+  }
+  
+  .content {
+    height: 100%;
+    width: 100% ;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .content h2 {
+    font-size: 25px;
+  }
+  
+  ul {
+    display: flex;
+    gap: 20px;
+  }
+  
+  ul li a {
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+  }
+  
+  ul li a:hover {
+    color: brown;
+  }
+  
+  
+  

@@ -1,0 +1,21 @@
+<!-- <button mat-raised-button color="primary" (click)="getAll()">Get All</button> -->
+
+<table>
+    <tr >
+      <th>No.</th>
+      <th>Name</th>
+      <th>Mobile Number</th>
+      <th>Address</th>
+    </tr>
+      <tr *ngFor="let team of employee; let i = index" class="iteams">
+        <td>{{ i+1 }}</td>
+        <td>{{ team.name }}</td>
+        <td>{{ team.mobileNumber }}</td>
+        <td>{{ team.address }}</td>
+        <button mat-raised-button color="accent" (click)="update(team)">Update</button>
+        <button mat-raised-button color="warn" (click)="delete(team.id)">Delete</button>
+        <button mat-raised-button color="primary" (click)="totalData(team.id)">Total Data</button>
+      </tr>
+    </table>
+    
+    
