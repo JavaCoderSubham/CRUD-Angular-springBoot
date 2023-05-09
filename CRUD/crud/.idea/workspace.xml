@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a27167cd-a33f-4800-9902-2e17fecaf9e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-app/src/service/crud-operation.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular-app/src/service/crud-operation.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crud/crooss/config/CrossOriginConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crud/crooss/config/CrossOriginConfig.java" afterDir="false" />
-    </list>
+    <list default="true" id="a27167cd-a33f-4800-9902-2e17fecaf9e7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
